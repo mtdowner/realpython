@@ -5,4 +5,4 @@ Markdown==3.5
 Pygments==2.16.1
 sqlparse==0.4.4
 typing_extensions==4.8.0
-zipp==3.17.0
+zipp==3.19.1

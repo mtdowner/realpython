@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "pandas==1.0.3",
-        "Flask==1.1.1",
+        "Flask==3.1.3",
         "SQLAlchemy==1.3.13",
         "Flask-SQLAlchemy==2.4.1",
         "Flask-Cors==3.0.8",

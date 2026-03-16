@@ -9,7 +9,7 @@ verify_ssl = true
 requests = "~=2.21.0"
 oauthlib = "~=3.0.1"
 Flask = "~=1.0.2"
-pyopenssl = "~=19.0.0"
+pyopenssl = "~=26.0.0"
 flask-login = "~=0.4.1"
 
 [requires]

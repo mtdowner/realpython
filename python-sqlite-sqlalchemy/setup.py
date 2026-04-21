@@ -13,7 +13,7 @@ setup(
         "Flask-Bootstrap4==4.0.2",
         "Flask-WTF==0.14.3",
         "python-dateutil==2.8.1",
-        "python-dotenv==0.10.5",
+        "python-dotenv==1.2.2",
         "treelib",
     ],
 )

@@ -45,7 +45,7 @@ onnxruntime==1.16.1
 openai==0.28.1
 overrides==7.4.0
 packaging==23.2
-Pillow==10.1.0
+Pillow==12.2.0
 polars==0.19.9
 posthog==3.0.2
 preshed==3.0.9

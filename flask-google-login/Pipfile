@@ -7,7 +7,7 @@ verify_ssl = true
 
 [packages]
 requests = "~=2.21.0"
-oauthlib = "~=3.0.1"
+oauthlib = "~=4.0.0"
 Flask = "~=1.0.2"
 pyopenssl = "~=19.0.0"
 flask-login = "~=0.4.1"

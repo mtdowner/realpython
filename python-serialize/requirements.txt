@@ -14,7 +14,7 @@ fastapi==0.104.1
 fastavro==1.9.0
 fastparquet==2023.10.1
 Flask==3.0.0
-fsspec==2023.10.0
+fsspec==2026.6.0
 h11==0.14.0
 httpcore==1.0.2
 httpx==0.25.1
